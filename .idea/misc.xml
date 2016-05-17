@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JsBowerSettings">
-    <exe-path>$USER_HOME$/AppData/Roaming/npm/node_modules/bower/bin/bower</exe-path>
-    <config-path />
-  </component>
-  <component name="PerforceDirect.Settings">
-    <option name="pathToExec" value="" />
-    <option name="PATH_TO_P4V" value="" />
-    <option name="myCanGoOffline" value="false" />
-    <option name="SHOW_BRANCHES_HISTORY" value="false" />
-    <option name="USE_LOGIN" value="false" />
-    <option name="SHOW_INTEGRATED_IN_COMMITTED_CHANGES" value="false" />
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -40,13 +28,6 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\ToshibaPC\AppData\Roaming\Subversion</configuration>
-  </component>
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
   </component>
   <component name="masterDetails">
     <states>
